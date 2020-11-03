@@ -149,7 +149,7 @@ if os.getcwd() == '/app':
     # Allow only Heroku to host the project.
     ALLOWED_HOSTS = ['bundoo-learning-logs.herokuapp.com']
 
-    DEBUG = True
+    DEBUG = False
 
     # Static asset configuration
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
