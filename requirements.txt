@@ -15,7 +15,6 @@ Pillow==7.2.0
 psycopg2>=2.6.1
 pygal==2.4.0
 pygal-maps-world==1.0.2
-pygame==2.0.0.dev6
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
